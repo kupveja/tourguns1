@@ -1,0 +1,36 @@
+.header, .brand {
+  background-color: #111d5e;
+  color: #fff;
+}
+
+.register {
+  color: black;
+}
+
+.description {
+  background-color: #204051;
+  color: #fff;
+}
+
+.images  {
+  background-color: #1d1b38;
+  color: #fff;
+}
+
+.games {
+  color: #fff;
+}
+
+.features {
+  background-color: #1f4068;
+  color: #fff;
+}
+
+.footer {
+  background-color: black;
+  color: #fff;
+}
+
+.footer1 {
+  color: #fff;
+}
